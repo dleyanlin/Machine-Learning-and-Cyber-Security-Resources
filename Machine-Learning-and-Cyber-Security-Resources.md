@@ -1,11 +1,12 @@
 In the recent years, [Machine Learning](https://en.wikipedia.org/wiki/Machine_learning) and Artificial Intelligence have gained a lot of attention by everyone. Machine Learning is being used in a lot of fields and with every passing day, there is a new application of machine learning in some field. But there is one field where machine learning is not being used as widely as it is being used in other fields and that field is security. Perhaps I am wrong but I have not seen a comprehensive collection of tutorials or resources related to ***Machine Learning and Computer Security***. In this post, I plan on providing stuff about the **usage of machine learning in cyber security. **I hope this post will be of help to many that are finding stuff related to both machine learning and cyber security. Lets begin.
 
 ## Machine Learning and Cyber Security Resources
+- [Papers](#Papers)
 
 ### Data for Machine Learning and Cyber Security:
 There is one huge source of data for using machine learning in cyber security and that is [SecRepo](http://www.secrepo.com/). This website contains all sorts of data that you can use. I have not found a better data source for cyber security than this website.
 
-### Papers:
+### Papers
 Lets go through a few good papers that illustrate the usage of machine learning in cyber security.
 * [Fast, Lean, and Accurate: Modeling Password Guessability Using Neural Networks.](https://www.usenix.org/conference/usenixsecurity16/technical-sessions/presentation/melicher) This is an awesome paper where the authors used neural networks to crack passwords. I’ve read the paper and its great.
 * [Outside the Closed World: On Using Machine Learning for Network Intrusion Detection](http://ieeexplore.ieee.org/document/5504793/). The paper talks about network intrusion detection using machine learning. It is another good paper.
