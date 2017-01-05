@@ -1,7 +1,10 @@
+## Machine Learning and Cyber Security Resources
+
+
 In the recent years, [Machine Learning](https://en.wikipedia.org/wiki/Machine_learning) and Artificial Intelligence have gained a lot of attention by everyone. Machine Learning is being used in a lot of fields and with every passing day, there is a new application of machine learning in some field. But there is one field where machine learning is not being used as widely as it is being used in other fields and that field is security. Perhaps I am wrong but I have not seen a comprehensive collection of tutorials or resources related to ***Machine Learning and Computer Security***. In this post, I plan on providing stuff about the **usage of machine learning in cyber security. **I hope this post will be of help to many that are finding stuff related to both machine learning and cyber security. Lets begin.
 
-## Machine Learning and Cyber Security Resources
-- [Data for Machine Learning and Cyber Security](Data-for-Machine-Learning-and-Cyber-Security)
+
+- [Data for Machine Learning and Cyber Security](#Data-for-Machine-Learning-and-Cyber-Security)
 - [Papers](#Papers)
 - [Books](#Books)
 - [Talks](#Talks)
